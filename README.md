@@ -1,8 +1,18 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&text=Do%20Won%20Kim&fontSize=25&theme=tokyonight&fontColor=628fda&height=30)
-
-
 
 ### Hi 👋
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/R-276dc3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
+
+</p>
+
+ 
+
 <div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DO-WON&hide=prs,issues&show_icons=true&theme=tokyonight&bg_color=00000000&layout=compact&include_all_commits=true&count_private=true)
@@ -27,9 +37,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<h3 align="center">📚 Tech Stack 📚</h3>
-<h5 align="center">✨ Languages & Platforms ✨</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/표시되는 이름-바탕색?style=flat-square&logo=이름&logoColor=white"/></a>&nbsp
-</p>
 -->
