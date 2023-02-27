@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&text=Do%20Won%20Kim&fontSize=25&theme=transparent)
+![header](https://capsule-render.vercel.app/api?type=transparent&text=Do%20Won%20Kim&fontSize=25&theme=tokyonight&fontColor=628fda&height=30)
 
 
 
 ### Hi 👋
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DO-WON&hide_title=true&hide=prs,issues&show_icons=true&theme=tokyonight&bg_color=00000000&layout=compact&include_all_commits=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DO-WON&hide=prs,issues&show_icons=true&theme=tokyonight&bg_color=00000000&layout=compact&include_all_commits=true&count_private=true)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DO-WON&bg_color=00000000&theme=tokyonight&hide=TeX&layout=compact)
