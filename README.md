@@ -1,8 +1,10 @@
 
-### Hi 👋 
-
-[Personal Website](https://do-won.github.io/)
-
+### Hi 👋  
+- 🎓 PhD student @ iSchool, University of Maryland
+- ✍️ Research interests: political communication, political behavior, social media, computational social science
+- 🤗 [Personal Website](https://do-won.github.io/)
+- 📫 Email: dowonkim@umd.edu
+- 🐤 Twitter: [@DoWonKim13](https://twitter.com/DoWonKim13)
 
 <p align="center">
   <img src="https://img.shields.io/badge/R-276dc3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
