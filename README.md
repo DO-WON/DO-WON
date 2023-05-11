@@ -1,7 +1,7 @@
 
 ### Hi 👋  
 - 🎓 PhD student @ iSchool, University of Maryland
-- ✍️ Research interests: political communication, political behavior, social media, computational social science
+- ✍️ Research interests: political behavior, social media, computational social science
 - 🤗 [Personal Website](https://do-won.github.io/)
 - 📫 Email: dowonkim@umd.edu
 - 🐤 Twitter: [@DoWonKim13](https://twitter.com/DoWonKim13)
