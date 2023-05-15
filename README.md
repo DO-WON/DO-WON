@@ -2,7 +2,7 @@
 ### Hi 👋  
 - 🎓 PhD student @ iSchool, University of Maryland
 - ✍️ Research interests: political behavior, social media, computational social science
-- 🤗 [Personal Website](dowon.kim)
+- 🤗 [Personal Website](https://dowon.kim)
 - 📫 Email: dowonkim@umd.edu
 - 🐤 Twitter: [@DoWonKim13](https://twitter.com/DoWonKim13)
 
