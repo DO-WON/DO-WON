@@ -2,7 +2,7 @@
 ### Hi 👋  
 - 🎓 Incoming PhD student @ iSchool, University of Maryland (2023~)
 - ✍️ Research interests: political behavior, social media, computational social science
-- 🤗 [Personal Website](https://dowon.kim)
+- 🤗 [Personal Website](https://do-won.github.io)
 - 📫 Email: dowonkim@umd.edu
 - 🐤 Twitter: [@DoWonKim13](https://twitter.com/DoWonKim13)
 
@@ -16,7 +16,6 @@
 </p>
 
  
-
 <div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DO-WON&hide=prs,issues&show_icons=true&theme=tokyonight&bg_color=00000000&layout=compact&include_all_commits=true&count_private=true)
