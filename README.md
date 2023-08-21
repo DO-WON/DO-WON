@@ -18,10 +18,10 @@
  
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DO-WON&hide=prs,issues&show_icons=true&theme=tokyonight&bg_color=00000000&layout=compact&include_all_commits=true&count_private=true)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DO-WON&hide=prs,issues&show_icons=true&theme=tokyonight&bg_color=00000000&layout=compact&include_all_commits=true&count_private=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DO-WON&bg_color=00000000&theme=tokyonight&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?/top-langs/?username=DO-WON&bg_color=00000000&theme=tokyonight&hide=TeX&layout=compact)
 
 </div>
 
