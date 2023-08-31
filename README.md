@@ -1,7 +1,7 @@
 
 ### Hi 👋  
-- 🎓 Incoming PhD student @ iSchool, University of Maryland (2023~)
-- ✍️ Research interests: political behavior, social media, computational social science
+- 🎓 PhD student @ iSchool, University of Maryland (2023~)
+- ✍️ Research interests: political behavior, social media, causal inference, computational social science
 - 🤗 [Personal Website](https://do-won.github.io)
 - 📫 Email: dowonkim@umd.edu
 - 🐤 Twitter: [@DoWonKim13](https://twitter.com/DoWonKim13)
