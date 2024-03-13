@@ -16,15 +16,6 @@
 </p>
 
 
-[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Python,R,JavaScript)](https://github.com/DO-WON)
-
-
-[![Badge](https://widget/realdeveloper.pro/api/badge?title=Languages&badges=Python,R,Stata,JavaScript)](https://github.com/DO-WON)
-
-
-[![Badge](https://widget/realdeveloper.pro/api/badge?title=Database&badges=PostgreSQL)](https://github.com/DO-WON)
-
-
 <!--
 
  
